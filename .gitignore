@@ -1,0 +1,13 @@
+node_modules/
+dist/
+sessions/
+logs/
+media/
+database/*.db
+database/*.db-*
+.env
+.DS_Store
+*.log
+coverage/
+.vscode/
+.idea/
