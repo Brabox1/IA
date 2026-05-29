@@ -1,4 +1,4 @@
-# 🤖 Nexus — Advanced WhatsApp AI Agent
+# Vyron pyshic
 
 Production-ready WhatsApp AI agent built with **Node.js + TypeScript + Baileys**, featuring multi-provider AI (OpenAI, Claude, Gemini), humanized responses, contextual memory, media understanding, and a REST/WebSocket API.
 
